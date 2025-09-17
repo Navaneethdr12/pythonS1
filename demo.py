@@ -1,1 +1,5 @@
-print("Hello")
+num1=int(input("Enter first number:"))
+num2=int(input("Enter second number:"))
+print("Sum= ",num1+num2)
+print(float(num1))
+print(complex(num2))
